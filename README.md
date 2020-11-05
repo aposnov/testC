@@ -1,9 +1,9 @@
 # testC
-Testing C and C++ in Xcode with Swift and Objective-C in one Project.
+Testing in C and C++ in the Xcode development environment using SWIFT and Objective-C in the same project.
 
-В репозитории демонстрируется как можно работать с языками C, C++, Objective-C вместе со Swift. 
+The repository demonstrates how to work with the C, C++, and Objective-C languages together with SWIFT.
 ---
-Это расширяет возможности в проектах, можно использовать библиотеки и части кода написанные на этих языках.
+This expands the possibilities in projects, you can use libraries and code parts written in these languages.
 
-**Так же ролик с разъяснениями я опубликовал у себя на youtube:**
+**I also posted a video with explanations on YouTube:**
 https://youtu.be/fd07Q1zrdAc
